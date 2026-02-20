@@ -47,7 +47,7 @@
         border-radius: 10px;
     }
 
-    h3{
+    h2{
         color:hsl(332, 51%, 32%);
         margin-bottom: 15px;
         letter-spacing: 0.5px;
@@ -77,7 +77,7 @@
         color: var(--rose-800);
     }
 
-    h2{
+    h3{
         font-family: var(--young-serif);
         color: var(--brown-800);
         font-size: 28px;
